@@ -44,8 +44,8 @@ http://tracker.dhitechnical.com:6969/announce
 udp://tracker.wildkat.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 https://tracker.ghostchu-services.top:443/announce
-http://tracker.tritan.gg:8080/announce
 udp://tracker-udp.gbitt.info:80/announce
+http://tracker.tritan.gg:8080/announce
 udp://tr4ck3r.duckdns.org:6969/announce
 udp://bt.rer.lol:6969/announce
 https://torrent.tracker.durukanbal.com:443/announce
